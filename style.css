@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+ body {
+         font-family:'Georgia', cursive;
+		 color:#486275;
+      }
+
+.main-heading p{
+	font-family: 'Georgia', cursive;
+	font-size: 5.9vw;
+	font-weight:bold;
+	color:#486275;
+	text-shadow: 4px 4px 4px #aaa;
+	
+
+}
+.nav li a{
+	color:#FFF;
+	}
+	
+	.nav li a:hover{
+	color:#003;
+	}
